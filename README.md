@@ -2,6 +2,8 @@
 
 A customizable and secure password generator web application built with HTML, CSS, and Vanilla JavaScript.
 
+**Live Demo:** [https://password-generator-steel-kappa.vercel.app/](https://password-generator-steel-kappa.vercel.app/)
+
 ![Password Generator Screenshot](./screenshot.png)
 
 ## Features
