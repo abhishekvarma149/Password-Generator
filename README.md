@@ -2,6 +2,8 @@
 
 A customizable and secure password generator web application built with HTML, CSS, and Vanilla JavaScript.
 
+![Password Generator Screenshot](./screenshot.png)
+
 ## Features
 
 - **Custom Password Length**: Choose a password length between 1 and 20 characters using a slider.
